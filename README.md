@@ -2,4 +2,4 @@
 
 ## Preview the Project Design
 
-[Click Here to Preview](https://iabdallah-samir0.github.io/Surfside-media)
+[Click Here to Preview](https://iabdallah-samir0.github.io/Surfside-Media/)
